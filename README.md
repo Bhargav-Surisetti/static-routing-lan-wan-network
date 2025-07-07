@@ -9,3 +9,5 @@ This project demonstrates the configuration of an internetwork using **static ro
 - 💻 Configured routers, switches, and PCs using Cisco Packet Tracer.
 - 📡 Enabled static routing for end-to-end communication between all LANs.
 - 🔐 Secured Router R1 with **Telnet access** and password (`C!sc0`).
+  ## License
+Licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
